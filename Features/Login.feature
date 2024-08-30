@@ -3,7 +3,7 @@
 Feature: This feature is about Login Functionalities
 
 
-@login @smoke
+@login @smoke @regression
 Scenario: User should login with valid email id and password
 
 
